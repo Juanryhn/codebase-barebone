@@ -1,6 +1,6 @@
 # Barebone Codebase React + Vite
 
-A React project utilizing Axios and React Query to handle API mutations with custom hooks.
+A Barebone Codebase React + Vite project refers to a minimal setup for building React applications with Vite as the bundler and development server. Vite is a modern, fast, and highly efficient build tool that provides a better development experience compared to traditional bundlers like Webpack.
 
 ## Prerequisites
 
